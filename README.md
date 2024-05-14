@@ -25,8 +25,8 @@ Here are the product basic parameters:
 | Touch screen type             | Resistive touch                                              |
 | Resistive touch sampling chip | HR2046                                                       |
 | Touch Point Count             | Single touch                                                 |
-| Operating Temperature         | -20▲C ~ 70▲C                                                 |
-| Storage Temperature           | -30▲C ~ 80▲C                                                 |
+| Operating Temperature         | -20째C ~ 70째C                                                 |
+| Storage Temperature           | -30째C ~ 80째C                                                 |
 | Mudule Size                   | 51mm*82.6mm                                                  |
 
 The electrical parameters are shown in the following table:
